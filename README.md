@@ -1,3 +1,3 @@
 # tester
 
-![alt tag](https://i.ibb.co/XsWDsQQ/ezhik2.png "Модель БД")
+![alt tag](https://i.ibb.co/HnYScLk/database.png "Модель БД")
